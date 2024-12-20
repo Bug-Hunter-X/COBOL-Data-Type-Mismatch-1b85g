@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: data type mismatches. The `bug.cob` file contains code that attempts to move a string literal to a numeric field. This results in an error. The `bugSolution.cob` file provides a corrected version of the code, demonstrating best practices for data type handling in COBOL.
